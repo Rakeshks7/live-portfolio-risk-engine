@@ -1,0 +1,5 @@
+numpy
+redis
+pydantic
+colorama
+scipy
